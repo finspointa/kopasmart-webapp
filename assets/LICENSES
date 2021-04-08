@@ -1,27 +1,4 @@
 /*!
- * vue-client-only v2.0.0
- * (c) 2019-present egoist <0x142857@gmail.com>
- * Released under the MIT License.
- */
-
-/*!
- * vue-i18n v8.24.2 
- * (c) 2021 kazuya kawaguchi
- * Released under the MIT License.
- */
-
-/*!
- * vue-no-ssr v1.1.1
- * (c) 2018-present egoist <0x142857@gmail.com>
- * Released under the MIT License.
- */
-
-//! moment.js
-
-//! moment.js locale configuration
-
-
-/*!
   * vue-router v3.5.1
   * (c) 2021 Evan You
   * @license MIT
@@ -38,3 +15,44 @@
  * (c) 2021 Evan You
  * @license MIT
  */
+
+
+/*!
+  * @intlify/core-base v9.1.2
+  * (c) 2021 kazuya kawaguchi
+  * Released under the MIT License.
+  */
+
+/*!
+  * @intlify/message-compiler v9.1.2
+  * (c) 2021 kazuya kawaguchi
+  * Released under the MIT License.
+  */
+
+/*!
+  * @intlify/message-resolver v9.1.2
+  * (c) 2021 kazuya kawaguchi
+  * Released under the MIT License.
+  */
+
+/*!
+  * @intlify/runtime v9.1.2
+  * (c) 2021 kazuya kawaguchi
+  * Released under the MIT License.
+  */
+
+/*!
+ * vue-client-only v2.0.0
+ * (c) 2019-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+/*!
+ * vue-no-ssr v1.1.1
+ * (c) 2018-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
+ */
+
+//! moment.js
+
+//! moment.js locale configuration
